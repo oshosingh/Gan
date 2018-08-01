@@ -3,9 +3,9 @@
 ## Generative-Adversarial-Network
 Generating Fake Images using CIFAR10 dataset for training.
 
-##### Generative Adversarial Network was discover by IAN Goodfellow.
+##### Generative Adversarial Network was discovered by IAN Goodfellow.
 
-GANS are generally used for generating fake images, we call it fake because it generates images of thingS that doeSn't exist.
+GANS are generally used for generating fake images, we call it fake because it generates images of things that doesn't exist.
 
 ### Generator
 It is a de-convolutional neural network which takes in a noise or random vectors and then passes the input to the network to generate images.
